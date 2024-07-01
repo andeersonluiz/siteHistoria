@@ -2,6 +2,8 @@
 
 ![sc1](https://github.com/andeersonluiz/siteHistoria/assets/42013276/5b01b95b-2092-456f-b77c-eeb6a9f6c86d)
 
+<p>Código-fonte do projeto: https://github.com/andeersonluiz/site_historia.git </p>  
+
 O projeto teve como objetivo desenvolver um site para a Coordenação de História, fornecendo um espaço para divulgação de projetos, notícias e acervos relacionados à história. O site foi construído com a finalidade de ser facilmente mantido por qualquer pessoa, mesmo sem conhecimento de programação.
 
 ## Tecnologias Utilizadas
